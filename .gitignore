@@ -1,0 +1,12 @@
+# Résultats générés
+resultats/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Systèmes
+.DS_Store
+Thumbs.db
